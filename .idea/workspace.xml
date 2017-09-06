@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73d4fe46-f805-4f04-a575-674549b45c0e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>components/webuploader/webuploader.min.js</find>
+      <find>components/webuploader/webuploa</find>
+      <find>components/webuploader/webuplo</find>
+      <find>components/webuploader/webupl</find>
+      <find>components/webuploader/webup</find>
+      <find>components/webuploader/webu</find>
+      <find>components/webuploader/web</find>
+      <find>components/webuploader/we</find>
+      <find>components/webuploader/w</find>
+      <find>components/webuploader/</find>
+      <find>j</find>
+      <find>this.</find>
+      <find>webupload</find>
+      <find>image-list-pager</find>
+      <find>$_W['script_name'</find>
+      <find>$_W['sc</find>
+      <find>$_W['s</find>
+      <find>$_W['</find>
+      <find>$_W[</find>
+      <find>$_W</find>
+      <find>$_W['script_name']</find>
+      <find>18</find>
+      <find>components/</find>
+      <find>../style</find>
+      <find>headimgurl</find>
+      <find>进度</find>
+      <find>__ROOT__/</find>
+      <find>../resource</find>
+      <find>__ROOT__/resource</find>
+      <find>opts</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>col-sm</replace>
+      <replace>__PUBLIC__/resource</replace>
+      <replace>/resource</replace>
+      <replace>__APP__/resource</replace>
+      <replace>__ROOT__/resource</replace>
+      <replace>$this-&gt;UploadApi-&gt;</replace>
+      <replace>$script_name</replace>
+      <replace>components/wui/</replace>
+      <replace>__ROOT__/resource/components/wui/style</replace>
+      <replace>../</replace>
+      <replace>assets</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resource/js/app/common.min.js" />
+        <option value="$PROJECT_DIR$/resource/components/ueditor/ueditor.all.min.js" />
+        <option value="$PROJECT_DIR$/Application/Common/logic/UploadFile.php" />
+        <option value="$PROJECT_DIR$/Application/Common/Logic/UploadFile.php" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/UploadFile.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp55476/youxueyg/application/my/controller/User.php" />
+        <option value="$PROJECT_DIR$/attachment.sql" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp22776/youxueyg/application/mall/controller/Goods.php" />
+        <option value="$PROJECT_DIR$/resource/js/app/fileUploader.js" />
+        <option value="$PROJECT_DIR$/resource/components/fileuploader/fileuploader.min.js" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Qiniu.class.php" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Qiniu/QiniuStorage.class.php" />
+        <option value="$PROJECT_DIR$/resource/js/app/util.js" />
+        <option value="$PROJECT_DIR$/resource/js/require.js" />
+        <option value="$PROJECT_DIR$/resource/js/app/config.js" />
+        <option value="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" />
+        <option value="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/UploadFile.class.php" />
+        <option value="$PROJECT_DIR$/Application/Home/View/index/mobileindex.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/index/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Application/Common/Common/function.php" />
+        <option value="$PROJECT_DIR$/test/assets/js/easyUpload.js" />
+        <option value="$PROJECT_DIR$/Application/Home/View/index/index11.html" />
+        <option value="$PROJECT_DIR$/test/assets/js/config.js" />
+        <option value="$PROJECT_DIR$/test/assets/js/EasyUpload.js" />
+        <option value="$PROJECT_DIR$/Application/Common/Conf/config.php" />
+        <option value="$PROJECT_DIR$/test/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webupload" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webupload" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UxWeb/Shop/shop__V2/shop_develop" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\upupw\htdocs\webupload\test\assets\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\upupw\htdocs\webupload\test" />
+      <recent name="E:\upupw\htdocs\webupload\resource\components\wui" />
+      <recent name="E:\upupw\htdocs\webupload\ThinkPHP\Library\Org\Util" />
+      <recent name="E:\upupw\htdocs\webupload\Application\Home\View\index" />
+      <recent name="E:\upupw\htdocs\webupload\Application\Home\Controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73d4fe46-f805-4f04-a575-674549b45c0e" name="Default" comment="" />
+      <created>1503660053607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503660053607</updated>
+      <workItem from="1503660055130" duration="1175000" />
+      <workItem from="1503818237740" duration="7381000" />
+      <workItem from="1503892581416" duration="23227000" />
+      <workItem from="1503970022894" duration="26192000" />
+      <workItem from="1504054324473" duration="14838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72813000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19669509" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resource/js/app/common.min.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1118">
+          <caret line="186" column="0" lean-forward="false" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/components/ueditor/ueditor.all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="361" column="314" lean-forward="true" selection-start-line="361" selection-start-column="314" selection-end-line="361" selection-end-column="314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/index.html" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/index11.html" />
+    <entry file="file://$PROJECT_DIR$/Uploads/2017-08-28/59a3b2141c425.png" />
+    <entry file="file://$PROJECT_DIR$/Application/Common/Logic/UploadFile.php" />
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Org/Util/String.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Common/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55476/youxueyg/application/my/controller/User.php" />
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Conf/convention.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="55" column="4" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="59" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp22776/youxueyg/application/mall/controller/Goods.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/js/app/fileUploader.js" />
+    <entry file="file://$PROJECT_DIR$/resource/js/lib/hammer.min.js" />
+    <entry file="file://$PROJECT_DIR$/resource/js/lib/cascade.js" />
+    <entry file="file://$PROJECT_DIR$/resource/js/lib/chart.min.js" />
+    <entry file="file://$PROJECT_DIR$/resource/js/lib/clipboard.min.js" />
+    <entry file="file://$PROJECT_DIR$/resource/js/lib/district.js" />
+    <entry file="file://$PROJECT_DIR$/resource/js/lib/css.min.js" />
+    <entry file="file://$PROJECT_DIR$/resource/js/public.js" />
+    <entry file="file://$PROJECT_DIR$/resource/js/function.js" />
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Qiniu.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="102" column="30" lean-forward="true" selection-start-line="102" selection-start-column="30" selection-end-line="102" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Upload.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="256" column="36" lean-forward="false" selection-start-line="256" selection-start-column="30" selection-end-line="256" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Qiniu/QiniuStorage.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="194" column="26" lean-forward="false" selection-start-line="194" selection-start-column="26" selection-end-line="194" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attachment.sql" />
+    <entry file="file://$PROJECT_DIR$/resource/components/wui/style/icon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/components/wui/zepto.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2856">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/components/wui/lrz.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2373">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/js/app/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6676">
+          <caret line="400" column="118" lean-forward="false" selection-start-line="400" selection-start-column="118" selection-end-line="400" selection-end-column="118" />
+          <folding>
+            <marker date="1503992853183" expanded="true" signature="22426:22475" ph="..." />
+            <marker date="1503992853183" expanded="true" signature="22491:22533" ph="..." />
+            <marker date="1503992853183" expanded="true" signature="29880:29893" ph="..." />
+            <marker date="1503992853183" expanded="true" signature="36594:36607" ph="..." />
+            <marker date="1503992853183" expanded="true" signature="41754:41766" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/js/require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="73" column="41" lean-forward="true" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/index/mobileindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1565">
+          <caret line="140" column="29" lean-forward="false" selection-start-line="140" selection-start-column="29" selection-end-line="140" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1503999374187" expanded="true" signature="3578:3611" ph="..." />
+            <marker date="1503999374187" expanded="true" signature="5433:5466" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Library/Org/Util/UploadFile.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/js/app/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/components/fileuploader/fileuploader.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4681">
+          <caret line="386" column="431" lean-forward="false" selection-start-line="386" selection-start-column="422" selection-end-line="386" selection-end-column="431" />
+          <folding>
+            <marker date="1503988146539" expanded="true" signature="18621:18711" ph="..." />
+            <marker date="1503988146539" expanded="true" signature="18836:18918" ph="..." />
+            <marker date="1503988146539" expanded="true" signature="31986:31997" ph="..." />
+            <marker date="1503988146539" expanded="true" signature="37421:37438" ph="..." />
+            <marker date="1503988146539" expanded="true" signature="37682:37756" ph="..." />
+            <marker date="1503988146539" expanded="true" signature="37912:37933" ph="..." />
+            <marker date="1503988146539" expanded="true" signature="38252:38269" ph="..." />
+            <marker date="1503988146539" expanded="true" signature="38328:38351" ph="..." />
+            <marker date="1503988146539" expanded="true" signature="38542:38649" ph="..." />
+            <marker date="1503988146539" expanded="true" signature="38730:38751" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Common/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="65" column="31" lean-forward="true" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
+          <folding>
+            <element signature="e#6#96#0#PHP" expanded="true" />
+            <marker date="1504000441572" expanded="true" signature="2050:2939" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="2100:2734" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="2138:2727" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="2372:2710" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="2391:2576" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="2418:2462" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="2599:2703" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="2626:2665" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="2763:2928" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="2800:2921" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="4442:5109" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="4476:4994" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="4544:4958" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="4580:4952" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="5026:5100" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="5061:5095" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="5207:5504" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="5350:5497" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="5682:5977" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="6619:7159" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="6661:7149" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="6697:7144" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="6810:6811" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="6810:7111" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="6823:7043" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="7071:7106" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="7264:7627" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="7462:7619" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="8123:9698" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="8180:8640" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8216:8635" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8329:8593" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8371:8525" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8553:8588" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8668:8671" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8668:9670" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8732:9665" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8749:9659" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8789:9168" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8848:9160" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="8945:9011" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="9017:9153" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="9034:9145" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="9203:9500" ph="{&quot;swfPath&quot;: &quot;resource/components/jplayer&quot;...}" />
+            <marker date="1504000441572" expanded="true" signature="9230:9313" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="9344:9427" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="9547:9652" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="9802:10376" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="10031:10368" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="10107:10120" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="11297:11327" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="11402:15435" ph="..." />
+            <marker date="1504000441572" expanded="true" signature="11427:12251" ph="{&quot;initialFrameHeight&quot;: EXTERNAL_FRAGMENT...}" />
+            <marker date="1504000441572" expanded="true" signature="11485:12107" ph="[...]" />
+            <marker date="1504000441572" expanded="true" signature="11486:12106" ph="[...]" />
+            <marker date="1504000441572" expanded="true" signature="12267:12546" ph="{&quot;type&quot;: 'image'...}" />
+            <marker date="1504000441572" expanded="true" signature="12267:12584" ph="{&quot;type&quot;: 'image'...}" />
+            <marker date="1504000441572" expanded="true" signature="12340:12414" ph="{&quot;upload&quot;: 'active'...}" />
+            <marker date="1504000441572" expanded="true" signature="12642:13950" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="12679:13450" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="12708:13444" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="12760:13435" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="12797:13419" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="12829:12857" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="12885:13093" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="12930:13081" ph="{&quot;width&quot;: '100%'...}" />
+            <marker date="1504000441572" expanded="true" signature="13099:13410" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="13153:13347" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="13178:13334" ph="{&quot;width&quot;: '100%'...}" />
+            <marker date="1504000441572" expanded="true" signature="13484:13650" ph="{&quot;name&quot;: '插入图片'...}" />
+            <marker date="1504000441572" expanded="true" signature="13602:13644" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="13707:13927" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="13782:13848" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="13854:13921" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14014:15126" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14051:14626" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14080:14620" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14132:14475" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14132:14611" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14170:14456" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14192:14220" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14226:14447" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14333:14424" ph="{&quot;url&quot;: video.url...}" />
+            <marker date="1504000441572" expanded="true" signature="14660:14826" ph="{&quot;name&quot;: '插入视频'...}" />
+            <marker date="1504000441572" expanded="true" signature="14778:14820" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14883:15103" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="14958:15024" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="15030:15097" ph="{...}" />
+            <marker date="1504000441572" expanded="true" signature="18875:18882" ph="«" />
+            <marker date="1504000441572" expanded="true" signature="20475:20482" ph="»" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+          <folding>
+            <element signature="n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/assets/js/lib/underscore-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-775">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/assets/js/require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/assets/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/assets/js/app/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <marker date="1503992853183" expanded="true" signature="22426:22475" ph="..." />
+            <marker date="1503992853183" expanded="true" signature="22491:22533" ph="..." />
+            <marker date="1503992853183" expanded="true" signature="29880:29893" ph="..." />
+            <marker date="1503992853183" expanded="true" signature="36594:36607" ph="..." />
+            <marker date="1503992853183" expanded="true" signature="41754:41766" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/assets/components/ueditor/ueditor.all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/assets/components/ueditor/ueditor.all.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/components/ueditor/ueditor.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3621">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/index/index11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="423" column="5" lean-forward="true" selection-start-line="401" selection-start-column="2" selection-end-line="423" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#span#0;n#div#0;n#div#0;n#div#3;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/assets/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/assets/js/EasyUpload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3179">
+          <caret line="204" column="45" lean-forward="false" selection-start-line="204" selection-start-column="45" selection-end-line="204" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#54#0" expanded="false" />
+            <marker date="1504081055799" expanded="true" signature="6279:6342" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6279:6637" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6279:7018" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6476:6544" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6476:6567" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6476:6568" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6476:6580" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6476:6617" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6685:6701" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6702:7018" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="6910:6952" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8098:8198" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8098:8269" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8098:8317" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8098:8421" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8098:8465" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8098:8492" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8098:8588" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8098:8668" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8318:8421" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8408:8421" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="8422:8465" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="9176:9328" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="9176:9376" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="9176:9473" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="9176:9552" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="9377:9472" ph="..." />
+            <marker date="1504081055799" expanded="true" signature="9377:9473" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

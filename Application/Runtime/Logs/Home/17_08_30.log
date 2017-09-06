@@ -1,0 +1,2006 @@
+[ 2017-08-30T10:52:45+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0460s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T11:00:03+08:00 ] 10.10.12.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 252 行.
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 339 行.
+NOTIC: [8] Undefined index: dest_dir E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 391 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T11:00:18+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T11:00:23+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T11:02:01+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T11:06:39+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T11:25:17+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T11:28:15+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T11:29:27+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T11:29:33+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=2&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 1,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T11:29:34+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=3&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 2,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T11:29:35+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=2&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 1,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T11:29:36+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T14:15:09+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T14:37:00+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T14:39:50+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T14:53:08+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T14:59:35+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T15:00:14+08:00 ] 10.10.12.232 /index.php/home/index/videoList?pagesize=5&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [8] Undefined index: year E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: month E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 3 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 3 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T15:05:19+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T15:14:45+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T15:25:45+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T15:25:49+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T15:25:51+08:00 ] 10.10.12.232 /index.php/home/index/videoList?pagesize=5&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [8] Undefined index: year E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: month E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 3 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 3 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T15:27:43+08:00 ] 10.10.12.232 /index.php/home/index/audioList?type=audio&pagesize=5&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [8] Undefined index: year E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: month E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 2 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T15:27:54+08:00 ] 10.10.12.232 /index.php/home/index/audioList?type=audio&pagesize=5&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [8] Undefined index: year E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: month E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 2 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T15:33:33+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T15:39:10+08:00 ] 10.10.12.232 /index.php/home/index/audioList?type=audio&pagesize=5&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [8] Undefined index: year E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: month E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 2 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-08-30T15:50:20+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T15:58:21+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T16:02:24+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T16:02:34+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T16:05:58+08:00 ] 10.10.12.232 /index.php/home/index/audioList?type=audio&pagesize=5&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [8] Undefined index: year E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: month E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 2 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 2 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-30T16:07:02+08:00 ] 10.10.12.232 /index.php/home/index/audioList?type=audio&pagesize=5&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [8] Undefined index: year E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: month E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 2 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 2 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T16:10:00+08:00 ] 10.10.12.232 /index.php/home/index/audioList?type=audio&pagesize=5&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [8] Undefined index: year E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: month E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 2 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 2 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T16:12:57+08:00 ] 10.10.12.232 /index.php/home/index/videoList?pagesize=5&page=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [8] Undefined index: year E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 83 行.
+NOTIC: [8] Undefined index: month E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 84 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 3 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 3 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T16:19:09+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T16:19:49+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T16:19:53+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T16:20:21+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\upupw\htdocs\webupload\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: INSERT INTO `attachment` (`file_type`,`is_cdn`,`file_name`,`file_url`,`file_size`,`year`,`month`) VALUES ('1','0','首页2.png','/Uploads/image/2017-08-30/59a67545e0061.png','1211887','2017','8') [ RunTime:0.0340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-08-30T16:20:26+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T16:20:29+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\upupw\htdocs\webupload\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0000s ]
+SQL: INSERT INTO `attachment` (`file_type`,`is_cdn`,`file_name`,`file_url`,`file_size`,`year`,`month`) VALUES ('1','0','首页2.png','/Uploads/image/2017-08-30/59a6754d57e23.png','1211887','2017','8') [ RunTime:0.0590s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T16:22:31+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T16:23:10+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T16:24:15+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T16:40:47+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:20:04+08:00 ] 10.10.12.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 252 行.
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 339 行.
+NOTIC: [8] Undefined index: dest_dir E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 391 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:21:02+08:00 ] 10.10.12.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 252 行.
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 339 行.
+ERR: Call to undefined function url()
+
+[ 2017-08-30T17:21:04+08:00 ] 10.10.12.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 252 行.
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 339 行.
+ERR: Call to undefined function url()
+
+[ 2017-08-30T17:22:38+08:00 ] 10.10.12.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 252 行.
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 339 行.
+NOTIC: [8] Undefined index: dest_dir E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 391 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:22:39+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:22:41+08:00 ] 10.10.12.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 252 行.
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 339 行.
+NOTIC: [8] Undefined index: dest_dir E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 391 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:22:42+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:22:56+08:00 ] 10.10.12.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 252 行.
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 339 行.
+NOTIC: [8] Undefined index: dest_dir E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 391 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:22:57+08:00 ] 10.10.12.232 /index.php/home/index/imageList?page=1&year=0&month=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `attachment` WHERE `file_type` = 1 ORDER BY create_time desc LIMIT 0,15   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `attachment` WHERE `file_type` = 1 LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: callbackfuncname E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 527 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 549 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 550 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 551 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 552 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+NOTIC: [8] Undefined variable: callbackfunc E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 593 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:23:01+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\upupw\htdocs\webupload\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: INSERT INTO `attachment` (`file_type`,`is_cdn`,`file_name`,`file_url`,`file_size`,`year`,`month`) VALUES ('1','0','timg.jpg','/Uploads/image/2017-08-30/59a683f539866.jpg','9262','2017','8') [ RunTime:0.0570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-08-30T17:24:13+08:00 ] 10.10.12.232 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 252 行.
+NOTIC: [8] Undefined index: extras E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 339 行.
+NOTIC: [8] Undefined index: dest_dir E:\upupw\htdocs\webupload\Application\Common\Common\function.php 第 391 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:24:36+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-08-30T17:24:42+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:27:30+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:28:34+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:31:22+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:41:04+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:41:08+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\upupw\htdocs\webupload\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0000s ]
+SQL: INSERT INTO `attachment` (`file_type`,`is_cdn`,`file_name`,`file_url`,`file_size`,`year`,`month`) VALUES ('1','0','cms结构_v1.jpg','/Uploads/image/2017-08-30/59a688347cb77.jpg','10198','2017','8') [ RunTime:0.0300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:41:25+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:41:26+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:41:27+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\upupw\htdocs\webupload\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0010s ]
+SQL: INSERT INTO `attachment` (`file_type`,`is_cdn`,`file_name`,`file_url`,`file_size`,`year`,`month`) VALUES ('1','0','cms结构_v1.jpg','/Uploads/image/2017-08-30/59a68847e3d29.jpg','10198','2017','8') [ RunTime:0.0200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:42:24+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:42:25+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:42:30+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\upupw\htdocs\webupload\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0020s ]
+SQL: INSERT INTO `attachment` (`file_type`,`is_cdn`,`file_name`,`file_url`,`file_size`,`year`,`month`) VALUES ('1','0','cms结构_v2.jpg','/Uploads/image/2017-08-30/59a688863da64.jpg','14213','2017','8') [ RunTime:0.0480s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:43:20+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:46:07+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:47:15+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:47:25+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:47:36+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:49:42+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:50:07+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:50:07+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:50:26+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T17:50:28+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\upupw\htdocs\webupload\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `attachment` [ RunTime:0.0150s ]
+SQL: INSERT INTO `attachment` (`file_type`,`is_cdn`,`file_name`,`file_url`,`file_size`,`year`,`month`) VALUES ('1','0','logo.jpg','/Uploads/image/2017-08-30/59a68a649ed25.jpg','2182','2017','8') [ RunTime:0.0330s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:50:57+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T17:51:18+08:00 ] 10.10.12.232 /index.php/home/index/mobileIndex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T18:05:05+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T18:05:08+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T18:05:36+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-08-30T18:05:38+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 175 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T18:06:32+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 176 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T18:06:35+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 176 行.
+NOTIC: [8] Undefined variable: _FLIES E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 19 行.
+
+[ 2017-08-30T18:23:48+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 176 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T18:23:50+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 176 行.
+NOTIC: [8] Undefined variable: _FLIES E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 19 行.
+
+[ 2017-08-30T18:23:59+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 176 行.
+NOTIC: [8] Undefined variable: _FLIES E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 19 行.
+
+[ 2017-08-30T18:25:19+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 177 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T18:25:21+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: _FLIES E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 20 行.
+
+[ 2017-08-30T18:27:11+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 177 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T18:27:11+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 177 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-08-30T18:27:50+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 177 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T18:27:52+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: _FLIES E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 20 行.
+
+[ 2017-08-30T18:28:28+08:00 ] 10.10.12.232 /home/index/mobileindex
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 177 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-08-30T18:28:30+08:00 ] 10.10.12.232 /index.php/home/index/upload?type=image
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Declaration of Home\Controller\IndexController::fetch() should be compatible with Think\Controller::fetch($templateFile = '', $content = '', $prefix = '') E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: _FLIES E:\upupw\htdocs\webupload\Application\Home\Controller\IndexController.class.php 第 20 行.
+
