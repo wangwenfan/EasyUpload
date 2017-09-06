@@ -125,3 +125,6 @@ var appConfigPath = {
 "type": "ajax"
 }
 ```
+
+#### 下载地址
+[https://github.com/wangwenfan/EasyUpload](https://github.com/wangwenfan/EasyUpload)
