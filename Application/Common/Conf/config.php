@@ -33,10 +33,10 @@ return [
         'isUploadQiniu'   => false,
         //七牛配置
         'QiNiu'           => [
-            'secretKey' => 'c9MJEEBgxNFW5GcmTDFHZ9pMZ1USulnPeUuLugt8',
-            'accessKey' => '_slo01SP9fNis5HS-2HVzmdie0rNDsfO1w_rZSaN',
-            'domain'    => 'qn.wangwenfan.top',//七牛域名
-            'bucket'    => 'vote'//七牛空间
+            'secretKey' => 'xxxx',
+            'accessKey' => 'xxx',
+            'domain'    => 'xx.wangwenfan.top',//七牛域名
+            'bucket'    => 'xxx'//七牛空间
         ]
     ]
 ];
